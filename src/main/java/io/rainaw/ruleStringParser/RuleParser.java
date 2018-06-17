@@ -81,8 +81,6 @@ public class RuleParser {
         }
     }
 
-    //TODO:test case for throw exception
-
     /**
      * Deserialize the rule string to a NestedRule object
      *
