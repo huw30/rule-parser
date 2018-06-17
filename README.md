@@ -52,6 +52,8 @@ gradle test
 The test report can also be accessed from the UI:
 `build/reports/tests/test/index.html`
 
+Example:
+![Example](https://imgur.com/K0pa7gw)
 
 ## Author
 
