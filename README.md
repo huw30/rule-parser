@@ -53,7 +53,7 @@ The test report can also be accessed from the UI:
 `build/reports/tests/test/index.html`
 
 Example:
-[Imgur](https://i.imgur.com/K0pa7gw.png)
+![Example](https://user-images.githubusercontent.com/5446130/41512650-8fee6718-7241-11e8-8664-118c0563349c.png)
 
 ## Author
 
